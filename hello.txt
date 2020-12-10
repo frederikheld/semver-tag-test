@@ -1,6 +1,4 @@
 Hello World!
 
-Hello everyone!
-
 Hello you in particular :-)
 
